@@ -81,7 +81,7 @@ And now, the list!
   - Why is the company building **this** app?
   - Why is the company **building** this app?
   - Why is **the company** building this app?
-- Why were the decisions made on this last chosen vs. their alternatives?
+- Why were the decisions made on this list chosen vs. their alternatives?
   - Consider recording [Architecture Decision Records](https://ardalis.com/getting-started-with-architecture-decision-records/)
 
 ## How
