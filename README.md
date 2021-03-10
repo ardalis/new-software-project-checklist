@@ -1,3 +1,7 @@
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![HitCount](http://hits.dwyl.io/ardalis/new-software-project-checklist.svg)](http://hits.dwyl.io/ardalis/new-software-project-checklist)
+[![Sparkline](https://stars.medv.io/ardalis/new-software-project-checklist.svg)](https://stars.medv.io/ardalis/new-software-project-checklist)
+
 # Ultimate New Software Project Decision Checklist
 
 When starting a new software project, there are many decisions that need to be made. Every decision can be phrased as a question. The following checklist outlines the questions that should be asked, and answered, as early in the life of a new software project as possible.
