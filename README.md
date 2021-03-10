@@ -18,7 +18,7 @@ And now, the list!
 - Who is ultimately responsible for the project (management owner)?
 - Who is the project being built to support? Who will its users be?
 - Who does the team coordinate with downstream (for QA, deployments, support, etc. if any)?
-- Who does the team coordinate with upstream (for requirements, direction, prioritzation, etc.)?
+- Who does the team coordinate with upstream (for requirements, direction, prioritization, etc.)?
 
 ## Communication
 
