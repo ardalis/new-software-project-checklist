@@ -2,6 +2,12 @@
 
 When starting a new software project, there are many decisions that need to be made. Every decision can be phrased as a question. The following checklist outlines the questions that should be asked, and answered, as early in the life of a new software project as possible.
 
+## Give a Star! :star:
+
+If you like this list or found it helpful, please give it a star. Thanks!
+
+And now, the list!
+
 ## Who
 
 - Who is on the team (and what are their roles)?
