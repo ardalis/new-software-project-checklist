@@ -47,6 +47,7 @@ And now, the list!
   - Functional tests
   - UI tests
   - Load tests
+  - Security tests
 - What will the initial source control structure look like?
   - Where does code go?
   - Where do tests go?
