@@ -34,6 +34,7 @@ And now, the list!
 ## What
 
 - What is the ultimate goal of the app? What problem does it solve?
+- What are the "user personas" of the app?
 - What kind of app is the team building? What hardware will it run on (web, mobile, desktop, etc.)?
 - What kind of methodology will the team use to collaborate (Kanban, Scrum, XP, etc.)?
 - What framework(s) will the app be built with/on?
@@ -87,6 +88,8 @@ And now, the list!
 
 ## How
 
+- How the application is deployed? Where? On-premise, cloud?
+- How often the application is deployed?
 - How do different parts of the app communicate with one another?
   - In process library method calls
   - Out of process API calls
