@@ -1,5 +1,4 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![HitCount](http://hits.dwyl.io/ardalis/new-software-project-checklist.svg)](http://hits.dwyl.io/ardalis/new-software-project-checklist)
 [![Sparkline](https://stars.medv.io/ardalis/new-software-project-checklist.svg)](https://stars.medv.io/ardalis/new-software-project-checklist)
 
 # Ultimate New Software Project Decision Checklist
@@ -88,8 +87,9 @@ And now, the list!
 
 ## How
 
-- How the application is deployed? Where? On-premise, cloud?
-- How often the application is deployed?
+- How is the application deployed? Where? On-premises, in the cloud?
+- How often is the application deployed?
+- Does the team differentiate between [production deployments and product releases](https://mailchi.mp/ardalis/dev-tip-1379429)?
 - How do different parts of the app communicate with one another?
   - In process library method calls
   - Out of process API calls
