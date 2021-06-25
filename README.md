@@ -108,3 +108,6 @@ And now, the list!
   - Auditing
   - Monitoring and Health Checks
 
+## Further Reading
+
+- [Stack Overflow Blog - A practical guide to writing technical specs](https://stackoverflow.blog/2020/04/06/a-practical-guide-to-writing-technical-specs/)
